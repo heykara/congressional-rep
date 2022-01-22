@@ -1,0 +1,33 @@
+
+#crep {
+display: flex;
+gap: 20px;
+}
+
+#crep_img {
+  padding-right: 10p;
+}
+
+#crep_name {
+    font-size: xx-large;
+}
+#crep_dinfo {
+    font-size: medium
+}
+
+#crep_commities {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#title {
+    font-size: large;
+    text-decoration: underline;
+}
+
+#title_two {
+    font-size: large;
+    text-decoration: underline;
+}
+
